@@ -2,8 +2,4 @@
 *
 * Estas tres primeras líneas estaban escritas inicialmente.
 *
-<<<<<<< HEAD
 * Esta es la copia union del repositorio local y GitHub
-=======
-*Esta es la copia de GitHub
->>>>>>> 9ad8288431938d69d7ffcff567fcc9993ac6e0b6
